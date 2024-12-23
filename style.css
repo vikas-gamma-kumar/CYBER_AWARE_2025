@@ -6,6 +6,15 @@ body {
   scroll-behavior: unset;
 }
 
+    @media (max-width: 582px) {
+      nav .logo {
+
+        font-size: 2rem;
+      }
+
+    }
+
+
 .body {
   background-image: url(pexels-mikhail-nilov-6963944.jpg);
   width: 100%;
